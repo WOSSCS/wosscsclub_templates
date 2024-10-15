@@ -64,6 +64,7 @@ def milton():
     hurricane_turtle.penup()
     hurricane_turtle.hideturtle()
 
+    start = lines[0]
     # set first coordinate to first_longitude & first_latitude
 
     # go to first long & lat 
